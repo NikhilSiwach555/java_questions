@@ -1,1 +1,1 @@
-# java_questions
+the solutions of the questions given in the training lectures.
